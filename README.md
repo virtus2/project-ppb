@@ -11,15 +11,17 @@
 ## 세부 사항
 - 요약:
 - 기간:
-- 팀 구성:
+- 팀 구성: 기획 1 [Cornminator](https://github.com/cornminator), 프로그래머 1 [virtus](https://github.com/virtus2)
 - 주요 업무:
 - 상세 업무: 
 
-## 스크린샷
+## 스크린샷  
+<img src="Screenshots/ppb3.png" width="800">
+<img src="Screenshots/ppb1.gif" width="800">
+<img src="Screenshots/ppb2.gif" width="800">
 
 ## 플레이 영상
-
-
+[Youtube](https://youtu.be/5IN27V9xlZ4)
 
 
 ## Reference
